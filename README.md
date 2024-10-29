@@ -50,15 +50,16 @@ Essas dificuldades me ajudaram a entender melhor como o Django funciona e como a
 2. Crie um ambiente virtual e ative-o 
 ```python -m venv venv ```
 ```source venv/bin/activate``` *# Para Linux/Mac*
+
 ```venv\Scripts\activate ```*# Para Windows*
 
-3. Instale as dependências
+4. Instale as dependências
 ```pip install django``` 
 
-4. Execute as migrações do banco de dados
+5. Execute as migrações do banco de dados
 ```python manage.py migrate``` 
 
-5. Inicie o servidor
+6. Inicie o servidor
 ```python manage.py runserver``` 
 
 7. Acesse a aplicação no seu navegador 
