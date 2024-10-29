@@ -47,8 +47,10 @@ Essas dificuldades me ajudaram a entender melhor como o Django funciona e como a
  ``` git clone https://github.com/agraziella/sistema-cadastro.git ```
  
 
-2. Crie um ambiente virtual e ative-o 
+2. Crie um ambiente virtual e ative-o
+
 ```python -m venv venv ```
+
 ```source venv/bin/activate``` *# Para Linux/Mac*
 
 ```venv\Scripts\activate ```*# Para Windows*
